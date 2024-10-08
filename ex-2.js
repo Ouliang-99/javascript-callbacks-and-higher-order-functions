@@ -1,7 +1,7 @@
 //Exercise #2: At Least Five Function
 
 function atLeastFive(array, operation) {
-  // Start coding here
+  for (let i =0)
 }
 
 const studentScoresRoom1 = [90, 40, 67, 80, 100, 15, 86, 12, 99, 67];
